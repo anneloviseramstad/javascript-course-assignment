@@ -5,6 +5,7 @@
 @import url("./jacket-overview.css");
 @import url("./contact.css");
 @import url("./checkout.css");
+@import url("./explore.css");
 
 *::before,
 *::after {
